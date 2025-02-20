@@ -21,7 +21,7 @@ const login = (client) => {
     client.snipes = new Map()
     client.inter = new Array()
 
-    client.login(process.env.token);
+    client.login("MTM0MTkyNDI4NjQzNjIxNjg3Mg.GS2gWf.zKlA8kOHY8VD3fmis_-O8sOSJr_1r-MCN_0pS8");
 }
 
 module.exports = {
